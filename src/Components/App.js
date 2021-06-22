@@ -1,9 +1,17 @@
 import React from 'react';
-
+import Header from './Header';
 function App(){
     return(
         <div>
-            <h1>Edu-StackUpdate</h1>
+            <Header/>
+            <div className="app-container">
+                <h1>
+                    __Edu-StackUpdate__
+                    <br/>
+                    Loading...
+                </h1>
+
+            </div>
         </div>
     )
 }
