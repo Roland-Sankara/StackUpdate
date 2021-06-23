@@ -1,0 +1,30 @@
+/* App banner */
+
+.banner-container{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem 5rem;
+    width: 100%;
+}
+
+.logo-container img{
+    width:80%;
+}
+
+.logo-container{
+    flex-basis: 20%;
+}
+
+.banner-text{
+    flex-basis: 80%;
+    text-align: left;
+}
+
+.banner-text > div{
+    padding:.5rem 0 0.5rem 0;
+}
+
+.banner-title h1{
+    font-size: 2rem;
+}

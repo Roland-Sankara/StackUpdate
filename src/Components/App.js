@@ -1,11 +1,15 @@
 import React from 'react';
-import Header from './Header';
+import Header from './HeaderComponent/Header';
+import Banner from './BannerComponent/Banner';
+
+
 function App(){
     return(
         <div>
             <Header/>
             <div className="app-container">
-                <h1>
+                <Banner/>
+                <h1 className="intro">
                     __Edu-StackUpdate__
                     <br/>
                     Loading...
