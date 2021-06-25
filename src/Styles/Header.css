@@ -21,12 +21,12 @@
     flex-wrap: wrap;
 }
 
-ul{
+.nav-links > ul{
     list-style-type: none;
     color:rgb(148, 147, 147);
 }
 
-li:hover{
+.nav-links > ul li:hover{
     color:white;
 }
 
