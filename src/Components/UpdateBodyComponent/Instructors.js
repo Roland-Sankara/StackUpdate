@@ -3,7 +3,7 @@ import React from 'react';
 function Instructors(){
     return(
         <div className="instructors">
-            <h2 className="card-title">Instructors</h2>
+            <h2 className="card-title">Instructors 👌</h2>
             <p>Roland Sankara, Andrew Tugume, Edna Margret, Mathew Murungi</p>
             <div className="instructor-images">
                 <img src="https://ca.slack-edge.com/TL6F3GBCM-UPT68FZFC-d7e8f1180ffb-512" alt="Roland Sankara"/>

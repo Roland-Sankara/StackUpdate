@@ -60,3 +60,37 @@
     width:100%;
     padding-top: 1rem;
 }
+
+.list-item{
+    display: grid;
+    grid-template-columns: 15% 85%;
+    /* grid-column-gap: 2px; */
+}
+
+/* center all the icons */
+i {
+    text-align: center;
+}
+
+
+/* Center-Column */
+
+.center-column{
+    text-align: left;
+    padding: 0 1rem 1rem 1rem;
+    line-height: 1.5rem;
+}
+
+.card-body{
+    background-color: rgb(217, 236, 238);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.news-title{
+    padding-bottom: 1rem;
+}
+
+.news-content > p{
+    padding-bottom: 1rem;
+}

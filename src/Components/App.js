@@ -14,7 +14,7 @@ function App(){
                 <h1 className="intro">
                     __Edu-StackUpdate__
                     <br/>
-                    Loading...
+                    Loading...🎉
                 </h1>
 
             </div>
